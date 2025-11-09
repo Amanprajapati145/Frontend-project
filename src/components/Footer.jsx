@@ -86,7 +86,7 @@ const Footer = () => {
       <div className="text-center py-4 text-sm text-gray-500">
         © {new Date().getFullYear()}{" "}
         <span className="font-semibold text-primary">DevQuest</span>.  
-        Built with ❤️ by <span className="text-primary font-semibold">Banti Chouhan</span>.
+        Built with ❤️ by <span className="text-primary font-semibold">Aman Prajapati</span>.
       </div>
     </footer>
   );
